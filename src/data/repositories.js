@@ -4,7 +4,7 @@ export const repositories_back = [
     name: "Pet Kare",
     language: "Python",
     description: "API para cuidado de pets.",
-    github_link: "https://github.com/bitster22/m5-pet-kare-alvaro",
+    github_link: "https://github.com/bitster22/pet-kare",
     vercel_link: "",
   },
   {
@@ -12,7 +12,7 @@ export const repositories_back = [
     name: "Kenzie Buster",
     language: "Python",
     description: "API para gestão de filmes.",
-    github_link: "https://github.com/bitster22/m5-kenzie-buster-alvaro",
+    github_link: "https://github.com/bitster22/kenzie-buster",
     vercel_link: "",
   },
   {
@@ -20,7 +20,7 @@ export const repositories_back = [
     name: "BandKamp Generic View",
     language: "Python",
     description: "API de cadastro de músicas.",
-    github_link: "https://github.com/bitster22/m5-bandkamp-generic-view-alvaro",
+    github_link: "https://github.com/bitster22/bandkamp",
     vercel_link: "",
   },
   {
